@@ -2,9 +2,9 @@
 using namespace std;
 class Number{
 public:
- int q = 31;
- int w = 18;
- int e = 79;
+ int q = 62;
+ int w = 14;
+ int e = 89;
  void numb()
  {
   cout << q << " " << w <<" "<< e <<endl;
